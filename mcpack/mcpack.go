@@ -1,0 +1,5 @@
+package mcpack
+
+import (
+	"bytes"
+)
